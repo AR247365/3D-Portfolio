@@ -48,7 +48,7 @@ export default function Experience() {
             position={[0, 1.56, -1.4]}
             rotation-x={-0.256}
           >
-            <iframe src="https://2d-portfolio.netlify.app/" />
+            <iframe src="https://portfolio-2d.netlify.app/" />
           </Html>
         </primitive>
 
